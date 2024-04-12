@@ -1,0 +1,29 @@
+.redirect a{
+    margin-top: 10%;
+    background-color: white;
+    text-decoration: none;
+    color: white;
+    border-radius: 3px;
+}
+
+*{
+    background-image: url("img/back.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-color: white;
+    text-decoration: none;
+    color: white;
+}
+.redirect a{
+	text-decoration: none;
+	border: 2px solid white;
+	border-radius: 5px;
+	padding:5px;
+	color: white;
+	background-color: white;
+  
+  }
+  
+.redirect a:hover{
+color: white;
+}
